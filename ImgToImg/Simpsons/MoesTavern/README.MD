@@ -25,9 +25,18 @@ Result:
 
 
 **4) Inpaint the AI image with some fixes using AI (using the generated #3 AI image)**  
+Using Automatic1111 StableDiffusion - ImgToImg-InPaint (Image: MoesTavern-LoopUpscaled.png) - Parameters:  
+In InPaint: Draw the masks where you want to improve the image. Illustrative (real-scenario would include graphics software)  
+Prompt: pool table, pool table pocket, hyper-realism, realistic, hyper-detailed, digital painting  
+Negative prompt: EasyNegative, (bad_prompt:0.8), watermark, people, pool sticks, bartenders, people on stools  
+Steps: 40, Sampler: DDIM, CFG scale: 8, Seed: 434893738, Size: 1280x1024, Model hash: 8836c40038, Model: revAnimated_v121Inp-inpainting, Denoising strength: 0.46, Conditional mask weight: 1.0, Mask blur: 16  
 ![Moe's Tavern Generated-LoopUpscaled-Inpaint](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToImg/Simpsons/MoesTavern/MoesTavern-Generated-LoopUpscaled-Inpaint.png)  
 
 **5) Upscale the AI image resolution & refine the details (using the generated #4 AI image)**  
+Using Automatic1111 StableDiffusion - ImgToImg (Image: MoesTavern-Generated-LoopUpscaled-Inpaint.png) - Parameters:  
+Prompt: pool table, pool table pocket, hyper-realism, realistic, hyper-detailed, digital painting  
+Negative prompt: EasyNegative, (bad_prompt:0.8), watermark, people, pool sticks, bartenders, people on stools  
+Steps: 40, Sampler: DDIM, CFG scale: 8, Seed: 3787160828, Size: 5120x4096, Model hash: e6415c4892, Model: realisticVisionV20_v20, Denoising strength: 0.18, Clip skip: 2, Ultimate SD upscale upscaler: 4x-UltraSharp, Ultimate SD upscale tile_width: 512, Ultimate SD upscale tile_height: 512, Ultimate SD upscale mask_blur: 8, Ultimate SD upscale padding: 32  
 ![Moe's Tavern Generated-4KPlus](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToImg/Simpsons/MoesTavern/MoesTavern-Generated-4KPlus.jpg)  
 
 **Required Components**
