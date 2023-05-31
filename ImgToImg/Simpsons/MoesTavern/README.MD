@@ -13,4 +13,4 @@
 ![Moe's Tavern Generated-LoopUpscaled-Inpaint](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToImg/Simpsons/MoesTavern/MoesTavern-Generated-LoopUpscaled-Inpaint.png)
 
 **5) Upscale the AI image resolution & refine the details (using the generated #4 AI image)**  
-![Moe's Tavern Generated-4KPlus](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToImg/Simpsons/Moe/Moe-Generated-4KPlus.jpg)
+![Moe's Tavern Generated-4KPlus](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToImg/Simpsons/MoesTavern/MoesTavern-Generated-4KPlus.jpg)
