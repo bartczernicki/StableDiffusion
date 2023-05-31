@@ -1,6 +1,6 @@
 ## How to Generate a Digital Painting Detailed Image of Moe From (The Simpsons)
 
-**1) Get a source image of Moe **
+**1) Get a source image of Moe **  
 ![Moe Source](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToImg/Simpsons/Moe/Moe-Source.jpg)
 
 ![Moe Generated](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToImg/Simpsons/Moe/Moe-Generated.png)
