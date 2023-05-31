@@ -1,4 +1,4 @@
-## How to Generate a Digital Painting Detailed Image of Moe From (The Simpsons)
+## Using Generative AI - Generate a Digital Painting Image of Moe From "The Simpsons"
 
 This guide assumes intermediate knowledge of Stable Diffusion, Automatic1111, using generative AI models and having to host Stable Diffusion locally or on the cloud. Go to the bottom of the guide for links of the components that you will need. The goal of this guide is to provide a quick step-by-step workflow done only using "instructive prompts & configurations" performed 100% by generative AI (human graphical engineering will yield "better" images).  
 
@@ -13,15 +13,19 @@ Using Automatic1111 StableDiffusion - ImgToImg (Image: Moes-Source.png) - Parame
 ![Moe Generated](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToImg/Simpsons/Moe/Moe-Generated.png)
 
 **3) Inpaint the AI image with some fixes using AI (using the generated #2 AI image)**  
+Using Automatic1111 StableDiffusion - ImgToImg - Inpaint (Image: Moe-Generated.png) - Parameters:  
 ![Moe Generated-Inpaint](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToImg/Simpsons/Moe/Moe-Generated-InpaintTouchup.png)
 
 **4) Upscale the AI image resolution & add Details (using the generated #3 AI image)**  
+Using Automatic1111 StableDiffusion - ImgToImg (Image: Moe-Generated-InpaintTouchup.png) - Parameters:  
 ![Moe Generated-LoopUpscaled](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToImg/Simpsons/Moe/Moe-Generated-LoopUpscaled.png)
 
 **5) Inpaint the AI image with some fixes using AI (using the generated #4 AI image)**  
+Using Automatic1111 StableDiffusion - ImgToImg (Image: Moe-Generated-LoopUpscaled.png) - Parameters:  
 ![Moe Generated-LoopUpscaled-Inpaint](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToImg/Simpsons/Moe/Moe-Generated-LoopUpscaled-InpaintTouchup.png)
 
 **6) Upscale the AI image resolution & refine the details (using the generated #5 AI image)**  
+Using Automatic1111 StableDiffusion - ImgToImg - Inpaint (Image: Moe-Generated-LoopUpscaled-InpaintTouchup.png) - Parameters:  
 ![Moe Generated-4KPlus](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToImg/Simpsons/Moe/Moe-Generated-4KPlus.jpg)
 
 Required Components
