@@ -15,5 +15,5 @@
 **5) Inpaint the AI image with some fixes using AI (using the generated #4 AI image)**  
 ![Moe Generated-LoopUpscaled-Inpaint](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToImg/Simpsons/Moe/Moe-Generated-LoopUpscaled-InpaintTouchup.png)
 
-**5) Upscale the AI image resolution (using the generated #5 AI image)**  
+**5) Upscale the AI image resolution & refine the details (using the generated #5 AI image)**  
 ![Moe Generated-4KPlus](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToImg/Simpsons/Moe/Moe-Generated-4KPlus.jpg)
