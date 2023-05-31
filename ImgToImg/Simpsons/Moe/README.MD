@@ -17,3 +17,11 @@
 
 **6) Upscale the AI image resolution & refine the details (using the generated #5 AI image)**  
 ![Moe Generated-4KPlus](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToImg/Simpsons/Moe/Moe-Generated-4KPlus.jpg)
+
+Required Components
+    Automatic1111 Stable Diffusion UI: https://github.com/AUTOMATIC1111/stable-diffusion-webui
+    ControlNet: https://github.com/lllyasviel/ControlNet
+    ReVAnimated Stable Diffusion AI Model: https://civitai.com/models/7371?modelVersionId=46846
+    Loopback Scaler (Python Script for improving image quality): https://github.com/Elldreth/loopback_scaler
+    EasyNegative (Negative Embeddings): https://civitai.com/models/7808/easynegative
+    BadPrompt (Negative Embeddings): https://civitai.com/models/55700/badprompt-negative-embedding
