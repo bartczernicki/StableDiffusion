@@ -1,5 +1,7 @@
 ## How to Generate a Digital Painting Detailed Image of Moe's Tavern from (The Simpsons)
 
+This guide assumes intermediate knowledge of Stable Diffusion, Automatic1111, using generative AI models and having to host Stable Diffusion locally or on the cloud. Go to the bottom of the guide for links of the components that you will need. 
+
 **1) Start with a source image of Moe's Tavern**  
 ![Moe's Tavern Source](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToImg/Simpsons/MoesTavern/MoesTavern-Source.jpg)
 
@@ -14,3 +16,11 @@
 
 **5) Upscale the AI image resolution & refine the details (using the generated #4 AI image)**  
 ![Moe's Tavern Generated-4KPlus](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToImg/Simpsons/MoesTavern/MoesTavern-Generated-4KPlus.jpg)
+
+**Required Components**
+1) Automatic1111 Stable Diffusion UI: https://github.com/AUTOMATIC1111/stable-diffusion-webui  
+2) ControlNet: https://github.com/lllyasviel/ControlNet  
+3) ReVAnimated Stable Diffusion AI Model: https://civitai.com/models/7371?modelVersionId=46846  
+4) Loopback Scaler (Python Script for improving image quality): https://github.com/Elldreth/loopback_scaler  
+5) EasyNegative (Negative Embeddings): https://civitai.com/models/7808/easynegative  
+6) BadPrompt (Negative Embeddings): https://civitai.com/models/55700/badprompt-negative-embedding  
