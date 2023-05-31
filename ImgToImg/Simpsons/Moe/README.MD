@@ -3,6 +3,9 @@
 This guide assumes intermediate knowledge of Stable Diffusion, Automatic1111, using generative AI models and having to host Stable Diffusion locally or on the cloud. Go to the bottom of the guide for links of the components that you will need. The goal of this guide is to provide a quick step-by-step workflow done only using "instructive prompts & configurations" performed 100% by generative AI (human graphical engineering will yield "better" images).  
 
 **1) Start with a source image of Moe with a Shotgun (found on internet)**  
+Using Automatic1111 StableDiffusion - ImgToImg (Image: Moe-Source.png) - Parameters:  
+(Load image and select "Interrogate CLIP" to generate a starting prompt. Remove any specifics of art style and only image description remains as baseline)  
+Result - Generated Prompt: - "a cartoon of a man holding shotgun at viewer"  
 ![Moe Source](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToImg/Simpsons/Moe/Moe-Source.jpg)
 
 **2) Generate an AI image of Moe using AI (using the #1 source image)**  
