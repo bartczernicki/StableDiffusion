@@ -19,9 +19,9 @@
 ![Moe Generated-4KPlus](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToImg/Simpsons/Moe/Moe-Generated-4KPlus.jpg)
 
 Required Components
-    Automatic1111 Stable Diffusion UI: https://github.com/AUTOMATIC1111/stable-diffusion-webui
-    ControlNet: https://github.com/lllyasviel/ControlNet
-    ReVAnimated Stable Diffusion AI Model: https://civitai.com/models/7371?modelVersionId=46846
-    Loopback Scaler (Python Script for improving image quality): https://github.com/Elldreth/loopback_scaler
-    EasyNegative (Negative Embeddings): https://civitai.com/models/7808/easynegative
-    BadPrompt (Negative Embeddings): https://civitai.com/models/55700/badprompt-negative-embedding
+1) Automatic1111 Stable Diffusion UI: https://github.com/AUTOMATIC1111/stable-diffusion-webui  
+2) ControlNet: https://github.com/lllyasviel/ControlNet  
+3) ReVAnimated Stable Diffusion AI Model: https://civitai.com/models/7371?modelVersionId=46846  
+4) Loopback Scaler (Python Script for improving image quality): https://github.com/Elldreth/loopback_scaler  
+5) EasyNegative (Negative Embeddings): https://civitai.com/models/7808/easynegative  
+6) BadPrompt (Negative Embeddings): https://civitai.com/models/55700/badprompt-negative-embedding  
