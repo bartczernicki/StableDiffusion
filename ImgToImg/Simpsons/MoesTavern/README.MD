@@ -1,4 +1,4 @@
-## How to Generate a Digital Painting Detailed Image of Moe's Tavern from (The Simpsons)
+## Using Generative AI - Generate a Digital Painting Image of Moe's Tavern From "The Simpsons"  
 
 This guide assumes intermediate knowledge of Stable Diffusion, Automatic1111, using generative AI models and having to host Stable Diffusion locally or on the cloud. Go to the bottom of the guide for links of the components that you will need. The goal of this guide is to provide a quick step-by-step workflow done only using "instructive prompts & configurations" performed 100% by generative AI (human graphical engineering will yield "better" images).  
 
