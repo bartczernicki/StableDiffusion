@@ -13,7 +13,7 @@ Using Automatic1111 StableDiffusion - ImgToImg (Image: Moes-Source.png) - Parame
 Prompt: middle-aged skinny bar owner with wrinkles pointing a (wood shotgun:1.2) at the viewer, curly grey hair, wearing shirt, hyperrealism, realistic, hyperdetailed, digital painting, bar background  
 Negative prompt: EasyNegative, (bad_prompt:0.8), text, watermark, glasses, bald, facial hair, muscular, hat, woman, scope, gun scope, mustache, beard  
 Steps: 36, Sampler: DPM++ 2S a Karras, CFG scale: 8, Seed: 1152701863, Size: 600x400, Model hash: 4199bcdd14, Model: revAnimated_v122, Denoising strength: 0.44, Clip skip: 2, Mask blur: 4  
-Result - New Image: 600x400 resolution, ControlNet's Lineart preprocessor provides the contours/lines for the Stable Diffusion Model for Moe's pose
+Result - New Image: 600x400 resolution, ControlNet's Lineart preprocessor provides the contours/lines for the Stable Diffusion Model for Moe's pose  
 ![Moe Generated](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToImg/Simpsons/Moe/Moe-Generated.png)
 
 **3) Inpaint the AI image with some fixes using AI (using the generated #2 AI image)**  
