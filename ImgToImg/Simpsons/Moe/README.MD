@@ -21,7 +21,7 @@ Using Automatic1111 StableDiffusion - ImgToImg - Inpaint (Image: Moe-Generated.p
 In InPaint: Draw the masks where you want to improve the image. Illustrative (real-scenario would include graphics software)
 Prompt: black shotgun muzzle  
 Negative prompt: EasyNegative, (bad_prompt:0.8), text, watermark, glasses, bald, facial hair, muscular, hat, woman, scope, gun scope, mustache, beard  
-Steps: 36, Sampler: DPM++ 2S a Karras, CFG scale: 8, Seed: 4081638091, Size: 600x400, Model hash: 4199bcdd14, Model: revAnimated_v122, Denoising strength: 0.48, Clip skip: 2, Mask blur: 4
+Steps: 36, Sampler: DPM++ 2S a Karras, CFG scale: 8, Seed: 4081638091, Size: 600x400, Model hash: 4199bcdd14, Model: revAnimated_v122, Denoising strength: 0.48, Clip skip: 2, Mask blur: 4  
 Result - New Image: 600x400 resolution, Inpaint fixes finger on trigger, gun barrels, less facial hair on Moe  
 ![Moe Generated-Inpaint](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToImg/Simpsons/Moe/Moe-Generated-InpaintTouchup.png)
 
