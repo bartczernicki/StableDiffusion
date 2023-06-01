@@ -13,11 +13,15 @@ Using Automatic1111 StableDiffusion - ImgToImg (Image: Moes-Source.png) - Parame
 Prompt: middle-aged skinny bar owner with wrinkles pointing a (wood shotgun:1.2) at the viewer, curly grey hair, wearing shirt, hyperrealism, realistic, hyperdetailed, digital painting, bar background  
 Negative prompt: EasyNegative, (bad_prompt:0.8), text, watermark, glasses, bald, facial hair, muscular, hat, woman, scope, gun scope, mustache, beard  
 Steps: 36, Sampler: DPM++ 2S a Karras, CFG scale: 8, Seed: 1152701863, Size: 600x400, Model hash: 4199bcdd14, Model: revAnimated_v122, Denoising strength: 0.44, Clip skip: 2, Mask blur: 4  
-Result - Image: 600x400 resolution
+Result - New Image: 600x400 resolution, ControlNet's Lineart preprocessor provides the contours/lines for the Stable Diffusion Model for Moe's pose
 ![Moe Generated](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToImg/Simpsons/Moe/Moe-Generated.png)
 
 **3) Inpaint the AI image with some fixes using AI (using the generated #2 AI image)**  
 Using Automatic1111 StableDiffusion - ImgToImg - Inpaint (Image: Moe-Generated.png) - Parameters:  
+Prompt: middle-aged skinny bar owner with wrinkles pointing a (wood shotgun:1.2) at the viewer, curly grey hair, wearing shirt, hyperrealism, realistic, hyperdetailed, digital painting, bar background  
+Negative prompt: EasyNegative, (bad_prompt:0.8), text, watermark, glasses, bald, facial hair, muscular, hat, woman, scope, gun scope, mustache, beard  
+Steps: 34, Sampler: DDIM, CFG scale: 8, Seed: 3708888578, Size: 1260x840, Model hash: 4199bcdd14, Model: revAnimated_v122, Denoising strength: 0.32, Clip skip: 2, Denoising strength change factor: 1, Add Detail: High, Add Blur: None, Smoothing: None, Contour: False, Sharpness: 1.2, Brightness: 1, Color Strength: 1, Contrast: 1.04  
+Result - New Image: 1256x840 resolution, Loopback Scaler script increases the image resolution while adding new detail to the image  
 ![Moe Generated-Inpaint](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToImg/Simpsons/Moe/Moe-Generated-InpaintTouchup.png)
 
 **4) Upscale the AI image resolution & add Details (using the generated #3 AI image)**  
