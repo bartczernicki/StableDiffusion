@@ -1,3 +1,5 @@
+![Black Hole with Jet Stream](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToVid/Black-Hole-With-Jet/Good/Black-Hole-With-Jet-Good-1.webp)
+
 ![Black Hole with Jet Stream](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToVid/Black-Hole-With-Jet/Basic/Black-Hole-With-Jet-Bad-Gas-Bend.webp)
 
 ![Black Hole with Jet Stream](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToVid/Black-Hole-With-Jet/Basic/Black-Hole-With-Jet-Bad-Jello.webp)
