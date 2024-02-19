@@ -1,7 +1,10 @@
-Reasons why these rendeings are considered good:  
-  * Good - Overall good generations, where the AI model segmented the image, identified the natural animation path and generated a good video.  
-  * Basic - Simple generations using AI, where they show simple paning. Found in basic photo editing or picture frame software (2024).  
-  * Bad - Poor generations using AI, where the video output does not have much natural consisency.  
+Reasons why these rendeings are considered "Good":  
+  * Black Hole image was auto-segmented by the Gen AI model.  
+  * AI model applied animation techniques to the various segments.  
+  * The accretion disk is animated to swirl.  
+  * The event horizon stay consistent.  
+  * The particle jet has a nice animation demonstrated expulsion effect.  
+  * Background stars are not interering with black hole animations.  
 
 *Note the images below loop from start to finish repeatedly. That is not considered a poor generation.
 
