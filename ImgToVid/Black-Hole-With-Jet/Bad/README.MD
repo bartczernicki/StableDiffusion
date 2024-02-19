@@ -1,3 +1,6 @@
+**Poor Generations using Gen AI**  
+Videos are partially segmented, partially animated, model applies wrong animation or consistency:  
+
 ![Black Hole with Jet Stream](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToVid/Black-Hole-With-Jet/Bad/Black-Hole-With-Jet-Bad-Gas-Bend.webp)
 
 ![Black Hole with Jet Stream](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToVid/Black-Hole-With-Jet/Bad/Black-Hole-With-Jet-Bad-Jello.webp)
