@@ -1,4 +1,4 @@
-**Source Image for video generation - Black Hole with Particle Jet (Black-Hole-With-Jet.png)**  
+**Source Image for video generation - Black Hole with Particle Jet (Black-Hole-With-Jet.jpg)**  
 Navigate to the following folders to see sample generations:  
 * Good - Overall good generations, where the AI model segmented the image, identified the natural animation path and generated a good video.  
 * Basic - Simple generations using AI, where they show simple panning. Found in basic photo editing or picture frame software (2024).  
