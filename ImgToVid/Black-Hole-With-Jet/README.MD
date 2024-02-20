@@ -1,7 +1,7 @@
 **Source Image for video generation - Black Hole with Particle Jet**  
 Navigate to the following folders to see sample generations:
 * Good - Overall good generations, where the AI model segmented the image, identified the natural animation path and generated a good video.  
-* Basic - Simple generations using AI, where they show simple panning. Found in basic photo editing or picture frame software (2024).
+* Basic - Simple generations using AI, where they show simple panning. Found in basic photo editing or picture frame software (2024).  
     ** Key difference is when panning (left, top, fly over etc.) the Gen AI models can generate new image content beyond the source image boundaries.
 * Bad - Poor generations using AI, where the video output does not have much natural consisency.  
 
