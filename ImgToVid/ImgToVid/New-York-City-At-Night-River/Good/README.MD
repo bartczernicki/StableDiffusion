@@ -7,8 +7,8 @@ Reasons why these rendeings are considered "Good":
 
 *Note the images below loop from start to finish repeatedly. That is not considered a poor generation just a repeat of the animation
 
-![Black Hole with Jet Stream](https://raw.githubusercontent.com/bartczernicki/StableDiffusion/main/ImgToVid/ImgToVid/New-York-City-At-Night-River/Good/New-York-City-At-Night-River-Good-Timelapase-Lightning.webp)
+![NYC Timelapse Lightning](https://raw.githubusercontent.com/bartczernicki/StableDiffusion/main/ImgToVid/ImgToVid/New-York-City-At-Night-River/Good/New-York-City-At-Night-River-Good-Timelapase-Lightning.webp)
 
-![Black Hole with Jet Stream](https://raw.githubusercontent.com/bartczernicki/StableDiffusion/main/ImgToVid/ImgToVid/New-York-City-At-Night-River/Good/New-York-City-At-Night-River-Good-Timelapase-Darker.webp)
+![NYC Timelapse Darker](https://raw.githubusercontent.com/bartczernicki/StableDiffusion/main/ImgToVid/ImgToVid/New-York-City-At-Night-River/Good/New-York-City-At-Night-River-Good-Timelapase-Darker.webp)
 
-![Black Hole with Jet Stream](https://raw.githubusercontent.com/bartczernicki/StableDiffusion/main/ImgToVid/ImgToVid/New-York-City-At-Night-River/Good/New-York-City-At-Night-River-Good-Timelapase-Sky.webp)
+![NYC Timelapse Sky](https://raw.githubusercontent.com/bartczernicki/StableDiffusion/main/ImgToVid/ImgToVid/New-York-City-At-Night-River/Good/New-York-City-At-Night-River-Good-Timelapase-Sky.webp)
