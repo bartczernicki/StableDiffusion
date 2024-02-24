@@ -9,6 +9,6 @@ Reasons why these rendeings are considered "Good":
 
 ![NYC Timelapse Lightning](https://raw.githubusercontent.com/bartczernicki/StableDiffusion/main/ImgToVid/ImgToVid/New-York-City-At-Night-River/Good/New-York-City-At-Night-River-Good-Timelapase-Lightning.webp)
 
-![NYC Timelapse Darker](https://raw.githubusercontent.com/bartczernicki/StableDiffusion/main/ImgToVid/ImgToVid/New-York-City-At-Night-River/Good/New-York-City-At-Night-River-Good-Timelapase-Darker.webp)
+![NYC Timelapse Darker](https://raw.githubusercontent.com/bartczernicki/StableDiffusion/main/ImgToVid/ImgToVid/New-York-City-At-Night-River/Good/New-York-City-At-Night-River-Good-Timelapse-Darker.webp)
 
 ![NYC Timelapse Sky](https://raw.githubusercontent.com/bartczernicki/StableDiffusion/main/ImgToVid/ImgToVid/New-York-City-At-Night-River/Good/New-York-City-At-Night-River-Good-Timelapase-Sky.webp)
