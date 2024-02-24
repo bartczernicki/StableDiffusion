@@ -1,4 +1,4 @@
-Reasons why these rendeings are considered "Good":  
+**Reasons why these rendeings are considered "Good":**  
   * New York City image was auto-segmented by the Gen AI model.  
   * AI model applied animation techniques to the various segments.  
   * Sky is segmented and animated properly to resemble a sky timelapse.  
