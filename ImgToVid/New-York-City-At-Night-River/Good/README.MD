@@ -7,8 +7,8 @@ Reasons why these rendeings are considered "Good":
 
 *Note the images below loop from start to finish repeatedly. That is not considered a poor generation, it is just the animation on repeat.  
 
-![NYC River](https://raw.githubusercontent.com/bartczernicki/StableDiffusion/main/ImgToVid/New-York-City-At-Night-River/Good/New-York-City-At-Night-River-Good-Timelapase-Lightning.webp)
+![NYC River](https://raw.githubusercontent.com/bartczernicki/StableDiffusion/main/ImgToVid/New-York-City-At-Night-River/Good/New-York-City-At-Night-River-Good-Timelapse-Lightning.webp)
 
-![NYC River](https://raw.githubusercontent.com/bartczernicki/StableDiffusion/main/ImgToVid/New-York-City-At-Night-River/Good/New-York-City-At-Night-River-Good-Timelapase-Darker.webp)
+![NYC River](https://raw.githubusercontent.com/bartczernicki/StableDiffusion/main/ImgToVid/New-York-City-At-Night-River/Good/New-York-City-At-Night-River-Good-Timelapse-Darker.webp)
 
-![NYC River](https://raw.githubusercontent.com/bartczernicki/StableDiffusion/main/ImgToVid/New-York-City-At-Night-River/Good/New-York-City-At-Night-River-Good-Timelapase-Sky.webp)
+![NYC River](https://raw.githubusercontent.com/bartczernicki/StableDiffusion/main/ImgToVid/New-York-City-At-Night-River/Good/New-York-City-At-Night-River-Good-Timelapse-Sky.webp)
