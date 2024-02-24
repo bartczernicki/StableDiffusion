@@ -9,6 +9,6 @@ Reasons why these rendeings are considered "Good":
 
 ![Black Hole with Jet Stream](https://raw.githubusercontent.com/bartczernicki/StableDiffusion/main/ImgToVid/ImgToVid/New-York-City-At-Night-River/Good/New-York-City-At-Night-River-Good-Timelapase-Lightning.webp)
 
-![Black Hole with Jet Stream](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToVid/Black-Hole-With-Jet/Good/Black-Hole-With-Jet-Good-2.webp)
+![Black Hole with Jet Stream](https://raw.githubusercontent.com/bartczernicki/StableDiffusion/main/ImgToVid/ImgToVid/New-York-City-At-Night-River/Good/New-York-City-At-Night-River-Good-Timelapase-Darker.webp)
 
-![Black Hole with Jet Stream](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToVid/Black-Hole-With-Jet/Good/Black-Hole-With-Jet-Good-3.webp)
+![Black Hole with Jet Stream](https://raw.githubusercontent.com/bartczernicki/StableDiffusion/main/ImgToVid/ImgToVid/New-York-City-At-Night-River/Good/New-York-City-At-Night-River-Good-Timelapase-Sky.webp)
