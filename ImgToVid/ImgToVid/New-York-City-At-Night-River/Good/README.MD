@@ -7,7 +7,7 @@ Reasons why these rendeings are considered "Good":
 
 *Note the images below loop from start to finish repeatedly. That is not considered a poor generation just a repeat of the animation
 
-![Black Hole with Jet Stream](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToVid/New-York-City-At-Night-River/Good/New-York-City-At-Night-River-Good-Timelapase-Lightning.webp.webp)
+![Black Hole with Jet Stream](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToVid/New-York-City-At-Night-River/Good/New-York-City-At-Night-River-Good-Timelapase-Lightning.webp.webp&raw=true)
 
 ![Black Hole with Jet Stream](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToVid/Black-Hole-With-Jet/Good/Black-Hole-With-Jet-Good-2.webp)
 
