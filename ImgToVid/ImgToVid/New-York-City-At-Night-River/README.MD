@@ -9,4 +9,4 @@ ImgToVid model used: stabilityai/stable-video-diffusion-img2vid-xt-1-1
 https://huggingface.co/stabilityai/stable-video-diffusion-img2vid-xt-1-1  
 https://stability.ai/stable-video   
 
-![New York City River](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToVid/New-York-City-At-Night-River/New-York-City-At-Night-River.jpg)
+![New York City River](https://github.com/bartczernicki/StableDiffusion/blob/main/ImgToVid/ImgToVid/New-York-City-At-Night-River/New-York-City-At-Night-River.jpg?raw=true)
