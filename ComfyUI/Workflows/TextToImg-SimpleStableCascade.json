@@ -1,6 +1,6 @@
 {
-  "last_node_id": 48,
-  "last_link_id": 44,
+  "last_node_id": 50,
+  "last_link_id": 47,
   "nodes": [
     {
       "id": 15,
@@ -14,7 +14,7 @@
         "1": 54
       },
       "flags": {},
-      "order": 16,
+      "order": 17,
       "mode": 0,
       "inputs": [
         {
@@ -63,7 +63,7 @@
         "1": 54
       },
       "flags": {},
-      "order": 17,
+      "order": 18,
       "mode": 0,
       "inputs": [
         {
@@ -308,49 +308,6 @@
       "bgcolor": "#535"
     },
     {
-      "id": 17,
-      "type": "VAEDecode",
-      "pos": [
-        2220.7710413363047,
-        129.6025938601699
-      ],
-      "size": {
-        "0": 200,
-        "1": 50
-      },
-      "flags": {},
-      "order": 22,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "samples",
-          "type": "LATENT",
-          "link": 25
-        },
-        {
-          "name": "vae",
-          "type": "VAE",
-          "link": 34
-        }
-      ],
-      "outputs": [
-        {
-          "name": "IMAGE",
-          "type": "IMAGE",
-          "links": [
-            28
-          ],
-          "shape": 3,
-          "slot_index": 0
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "VAEDecode"
-      },
-      "color": "#332922",
-      "bgcolor": "#593930"
-    },
-    {
       "id": 41,
       "type": "Note",
       "pos": [
@@ -434,7 +391,7 @@
         "1": 54
       },
       "flags": {},
-      "order": 18,
+      "order": 19,
       "mode": 0,
       "inputs": [
         {
@@ -483,7 +440,7 @@
         "1": 54
       },
       "flags": {},
-      "order": 19,
+      "order": 20,
       "mode": 0,
       "inputs": [
         {
@@ -556,7 +513,7 @@
         "1": 340
       },
       "flags": {},
-      "order": 21,
+      "order": 22,
       "mode": 0,
       "inputs": [
         {
@@ -732,34 +689,6 @@
       "bgcolor": "#535"
     },
     {
-      "id": 19,
-      "type": "SaveImage",
-      "pos": [
-        2600,
-        130
-      ],
-      "size": {
-        "0": 565.774658203125,
-        "1": 596.3757934570312
-      },
-      "flags": {},
-      "order": 23,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 28
-        }
-      ],
-      "properties": {},
-      "widgets_values": [
-        "ComfyUI"
-      ],
-      "color": "#222",
-      "bgcolor": "#000"
-    },
-    {
       "id": 47,
       "type": "PrimitiveNode",
       "pos": [
@@ -871,7 +800,7 @@
         "1": 334
       },
       "flags": {},
-      "order": 20,
+      "order": 21,
       "mode": 0,
       "inputs": [
         {
@@ -930,7 +859,7 @@
       },
       "widgets_values": [
         "enable",
-        1054704483269207,
+        674311281360443,
         "randomize",
         25,
         8,
@@ -942,6 +871,150 @@
       ],
       "color": "#223",
       "bgcolor": "#335"
+    },
+    {
+      "id": 17,
+      "type": "VAEDecode",
+      "pos": [
+        2369,
+        562
+      ],
+      "size": {
+        "0": 200,
+        "1": 50
+      },
+      "flags": {},
+      "order": 23,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "samples",
+          "type": "LATENT",
+          "link": 25
+        },
+        {
+          "name": "vae",
+          "type": "VAE",
+          "link": 34
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            45
+          ],
+          "shape": 3,
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "VAEDecode"
+      },
+      "color": "#332922",
+      "bgcolor": "#593930"
+    },
+    {
+      "id": 49,
+      "type": "UpscaleModelLoader",
+      "pos": [
+        2592,
+        682
+      ],
+      "size": {
+        "0": 315,
+        "1": 58
+      },
+      "flags": {},
+      "order": 16,
+      "mode": 0,
+      "outputs": [
+        {
+          "name": "UPSCALE_MODEL",
+          "type": "UPSCALE_MODEL",
+          "links": [
+            46
+          ],
+          "shape": 3,
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "UpscaleModelLoader"
+      },
+      "widgets_values": [
+        "RealESRGAN_x2plus.pth"
+      ]
+    },
+    {
+      "id": 50,
+      "type": "ImageUpscaleWithModel",
+      "pos": [
+        2761,
+        497
+      ],
+      "size": {
+        "0": 241.79998779296875,
+        "1": 46
+      },
+      "flags": {},
+      "order": 24,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "upscale_model",
+          "type": "UPSCALE_MODEL",
+          "link": 46
+        },
+        {
+          "name": "image",
+          "type": "IMAGE",
+          "link": 45
+        }
+      ],
+      "outputs": [
+        {
+          "name": "IMAGE",
+          "type": "IMAGE",
+          "links": [
+            47
+          ],
+          "shape": 3,
+          "slot_index": 0
+        }
+      ],
+      "properties": {
+        "Node name for S&R": "ImageUpscaleWithModel"
+      }
+    },
+    {
+      "id": 19,
+      "type": "SaveImage",
+      "pos": [
+        3095,
+        -39
+      ],
+      "size": {
+        "0": 565.774658203125,
+        "1": 596.3757934570312
+      },
+      "flags": {},
+      "order": 25,
+      "mode": 0,
+      "inputs": [
+        {
+          "name": "images",
+          "type": "IMAGE",
+          "link": 47
+        }
+      ],
+      "properties": {},
+      "widgets_values": [
+        "ComfyUI"
+      ],
+      "color": "#222",
+      "bgcolor": "#000"
     }
   ],
   "links": [
@@ -1082,14 +1155,6 @@
       "LATENT"
     ],
     [
-      28,
-      17,
-      0,
-      19,
-      0,
-      "IMAGE"
-    ],
-    [
       34,
       12,
       2,
@@ -1128,6 +1193,30 @@
       11,
       5,
       "INT"
+    ],
+    [
+      45,
+      17,
+      0,
+      50,
+      1,
+      "IMAGE"
+    ],
+    [
+      46,
+      49,
+      0,
+      50,
+      0,
+      "UPSCALE_MODEL"
+    ],
+    [
+      47,
+      50,
+      0,
+      19,
+      0,
+      "IMAGE"
     ]
   ],
   "groups": [
